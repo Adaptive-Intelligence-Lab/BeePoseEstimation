@@ -367,13 +367,6 @@ The pipeline intelligently handles DeepLabCut's H5 conversion:
 3. **🛡️ Fallback**: Multiple conversion methods for reliability
 4. **✅ Verification**: Confirms successful conversion
 
-### 🌍 Multi-Language Support
-
-- 🇺🇸 **English**: `cvat_to_deeplabcut_pipeline.py`
-- 🇨🇳 **中文**: `cvat_to_deeplabcut_pipeline_cn.py`
-
----
-
 ## 🔍 Troubleshooting
 
 ### Common Issues & Solutions
