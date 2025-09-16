@@ -110,25 +110,6 @@ python cvat_to_deeplabcut_pipeline.py annotations.xml video.mp4 output_project \
     --project "MyBeeProject" --scorer "researcher1" --range 100 500
 ```
 
----
-
-## 📁 Project Structure
-
-```
-CVAT_DLC/
-├── 🎨 cvat_dlc_gui.py                    # Beautiful GUI interface
-├── 🔧 cvat_to_deeplabcut_pipeline.py     # Main conversion pipeline
-├── 🌏 cvat_to_deeplabcut_pipeline_cn.py  # Chinese version
-├── 🔄 h5_converter.py                    # H5 conversion utility
-├── 📝 README.md                          # This file
-├── 📚 README_CVAT_Pipeline.md            # Detailed pipeline docs
-├── 📁 Annotated/                         # Sample annotations
-├── 🎬 Video/                             # Sample videos
-└── 📊 __pycache__/                       # Python cache
-```
-
----
-
 ## 🔧 Installation & Setup
 
 ### Prerequisites
