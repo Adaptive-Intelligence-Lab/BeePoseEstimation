@@ -97,8 +97,6 @@ pip install deeplabcut
 ```bash
 python cvat_dlc_gui.py
 ```
-
-![GUI Screenshot](docs/images/gui_screenshot.png)
 *Beautiful, intuitive interface for seamless conversion*
 
 ### 3️⃣ **Or Use Command Line**
