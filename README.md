@@ -90,7 +90,8 @@ pip install opencv-python pandas numpy pyyaml tkinter
 pip install deeplabcut
 ```
 
-> 💡 **Need DeepLabCut?** Follow the comprehensive installation guide at [deeplabcut.github.io](https://deeplabcut.github.io/DeepLabCut/docs/installation.html)
+> 💡 **Need DeepLabCut?** Follow the comprehensive installation guide at [deeplabcut.github.io](https://deeplabcut.github.io/DeepLabCut/docs/installation.html) and [Official Examples](https://github.com/DeepLabCut/DeepLabCut/tree/main/examples)
+
 
 ### 2️⃣ **Launch GUI Interface**
 
